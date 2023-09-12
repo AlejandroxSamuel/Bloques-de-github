@@ -1,0 +1,38 @@
+h1{
+    font-size:xxx-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    height: 200px;
+}
+.contenedor1{
+    display: flex;
+    background-color:aqua;
+    padding: 20px;
+    justify-content: center;
+    justify-content: space-between;
+    
+
+    
+}
+.contenedor2{
+    display: flex;
+    background-color:darksalmon;
+    padding: 20px;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+
+    
+}
+.contenedor3{
+    margin-top: 20px;
+    display: flex;
+    background-color:burlywood;
+    padding: 20px;
+    justify-content: center;
+    justify-content: space-between;
+}
